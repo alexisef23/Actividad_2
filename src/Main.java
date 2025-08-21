@@ -15,7 +15,7 @@ public class Main {
             System.out.println("3. Ver producto en la cima de la bolsa");
             System.out.println("4. Agregar persona a la fila (Cola)");
             System.out.println("5. Atender producto de la fila (Cola)");
-            System.out.println("6. Ver primer producto en la fila");
+            System.out.println("6. Ver primera persona en la fila");
             System.out.println("7. Salir");
             System.out.print("Elige una opción: ");
 
